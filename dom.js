@@ -41,4 +41,11 @@ var document = [
     ]
   }
 ]
-div.firstchild.firstchild
+document.[0].children[0].children
+let listItems = document.[0].children[0].children
+console.log(listItems[0].value)
+
+
+
+
+
